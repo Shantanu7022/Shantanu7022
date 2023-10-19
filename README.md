@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/shantanu_07g" target="blank"><img src="https://img.shields.io/twitter/follow/shantanu_07g?logo=twitter&style=for-the-badge" alt="shantanu_07g" /></a> </p>
 
-- 🌱 I’m currently learning **MEAN Stack**
 
 - 📫 How to reach me **shantanugayen200207@gmail.com**
 
